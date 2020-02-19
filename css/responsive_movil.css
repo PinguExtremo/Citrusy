@@ -1,0 +1,92 @@
+@media screen and (min-width: 320px) and (max-width: 1080px){
+	
+
+	#titulo{
+		height: 200px;
+	}
+
+	#creadopor{
+		font-size: 50px;
+	}
+
+	h1{
+		font-size: 70px;
+	}
+
+	#menulinks{
+		height: 850px;
+	}
+
+	a.links{
+		font-size: 80px;
+	}
+
+	li.linkstop{
+		display: block;
+		text-align: center;
+		margin-top: 30px;
+		padding-top: 30px;
+	}
+
+	.columna{
+		padding-left: 90px;
+		margin-top: 30px;
+	}
+
+	.titulos{
+		width: 820px;
+		font-size: 60px;
+		height: 100px;
+		padding: 50px;
+	}
+
+	.textos{
+		font-size: 40px;
+		width: 800px;
+		padding: 60px;
+	}
+	
+	.columnaizquierda{
+		width: 1000px;
+		font-size: 50px;
+		text-align: center;
+		margin-left: 50px;
+	}
+	
+	li.listasidebartop{
+		font-size: 30px;
+	}
+
+	li.listasidebar2{
+		font-size: 30px;
+	}
+	
+	.columnamedio{
+		width: 1000px;
+		font-size: 50px;
+		text-align: center;
+		margin-left: 50px;
+	}
+	
+	.imagenmedio{
+		width: 1000px;
+	}
+
+	.textomedio{
+		font-size: 20px;
+		text-align: justify;
+		margin-bottom: 80px;
+	}
+
+	#readfull{
+		font-size: 30px;
+		padding: 40px;
+	}
+
+	.columnaderecha{
+		width: 1000px;
+		font-size: 50px;
+		text-align: center;
+		margin-left: 50px;
+		margin-top: 50px;
+	}
