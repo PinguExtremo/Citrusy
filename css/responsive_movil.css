@@ -3,6 +3,7 @@
 
 	#titulo{
 		height: 200px;
+		width: 1115px;
 	}
 
 	#creadopor{
@@ -13,8 +14,13 @@
 		font-size: 70px;
 	}
 
+	.imagengrande{
+		width: 1115px;
+	}
+
 	#menulinks{
 		height: 850px;
+		width: 1115px;
 	}
 
 	a.links{
@@ -29,7 +35,7 @@
 	}
 
 	.columna{
-		padding-left: 90px;
+		padding-left: 100px;
 		margin-top: 30px;
 	}
 
@@ -50,7 +56,7 @@
 		width: 1000px;
 		font-size: 50px;
 		text-align: center;
-		margin-left: 50px;
+		margin-left: 55px;
 	}
 	
 	li.listasidebartop{
@@ -65,11 +71,19 @@
 		width: 1000px;
 		font-size: 50px;
 		text-align: center;
-		margin-left: 50px;
+		margin-left: 55px;
 	}
 	
 	.imagenmedio{
 		width: 1000px;
+	}
+
+	#medio{
+		width: 1115px;
+	}
+
+	.filamedio{
+		width: 1115px;
 	}
 
 	.textomedio{
@@ -87,6 +101,116 @@
 		width: 1000px;
 		font-size: 50px;
 		text-align: center;
-		margin-left: 50px;
+		margin-left: 55px;
 		margin-top: 50px;
+	}
+
+	#abajo{
+		width: 1115px;
+	}
+
+	.fecha{
+		font-size: 40px;
+	}
+
+	.textofecha{
+		font-size: 20px;
+	}
+
+	.columnafooter{
+		width: 1000px;
+		font-size: 50px;
+		text-align: center;
+		margin-left: 55px;
+	}
+
+	.footertitulos{
+		font-size: 70px;
+		text-align: center;
+		margin-bottom: 30px;
+	}
+
+	#imgfooter{
+		width: 1000px;
+	}
+
+	.textoimg{
+		font-size: 30px;
+	}
+
+	.fechafooter{
+		font-size: 40px;
+	}
+
+	.textofooter2{
+		font-size: 20px;
+	}
+
+	.textofechafooter{
+		font-size: 20px;
+	}
+
+	.textofechafooter2{
+		font-size: 20px;
+	}
+
+	.fechafooter2{
+		font-size: 30px;
+	}
+
+	.textoimg2{
+		font-size: 30px;
+	}
+
+	.spanpor{
+		font-size: 40px;
+	}
+
+	.spanpor2{
+		font-size: 40px;
+	}
+	
+	#abajocol1{
+		width: 1115px;
+	}
+
+	#abajocol2{
+		width: 1115px;
+	}
+
+	/* textos Dos columnas y una columna */
+	
+	.columnamediocol1{
+		width: 1115px;
+		text-align: center;
+		margin-right: 0px;
+	}
+
+	.imagenmediocol1{
+		width: 1000px;
+	}
+
+	.sidebar2{
+		font-size: 60px;
+		text-align: center;
+	}
+	
+	.textomedio{
+		font-size: 25px;
+		width: 1000px;
+		margin: auto;
+		text-align: justify;
+		margin-bottom: 100px;
+		margin-top: 30px;
+	}
+
+	.columnamediocol2{
+		width: 1000px;
+		text-align: center;
+		margin-right: 0px;
+		margin-bottom: 30px;
+	}
+
+	.columnamediocol3_1{
+		width: 1115px;
 	}
