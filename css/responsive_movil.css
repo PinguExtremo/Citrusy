@@ -1,4 +1,4 @@
-@media screen and (min-width: 320px) and (max-width: 1080px){
+@media screen and (min-width: 300px) and (max-width: 1050px){
 	
 
 	#titulo{
@@ -15,7 +15,7 @@
 	}
 
 	.imagengrande{
-		width: 1115px;
+		width: 1120px;
 	}
 
 	#menulinks{
@@ -79,11 +79,11 @@
 	}
 
 	#medio{
-		width: 1115px;
+		width: 1120px;
 	}
 
 	.filamedio{
-		width: 1115px;
+		width: 1120px;
 	}
 
 	.textomedio{
@@ -106,7 +106,7 @@
 	}
 
 	#abajo{
-		width: 1115px;
+		width: 1120px;
 	}
 
 	.fecha{
@@ -171,17 +171,17 @@
 	}
 	
 	#abajocol1{
-		width: 1115px;
+		width: 1120px;
 	}
 
 	#abajocol2{
-		width: 1115px;
+		width: 1120px;
 	}
 
 	/* textos Dos columnas y una columna */
 	
 	.columnamediocol1{
-		width: 1115px;
+		width: 1120px;
 		text-align: center;
 		margin-right: 0px;
 	}
@@ -212,5 +212,6 @@
 	}
 
 	.columnamediocol3_1{
-		width: 1115px;
+		width: 1120px;
 	}
+}
