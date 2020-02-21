@@ -40,20 +40,20 @@ h1{
 	margin-left: 195px;
 }
 
-li.linkstop{
+.linkstop{
 	display: inline-block;
 	text-decoration: none;
 	margin-top: 21px;
 }
 
-a.links{
+.links{
 	color: grey;
 	text-decoration: none;
 	padding: 21px;
 	transition: 500ms;
 }
 
-a:hover.links{
+:hover.links{
 	background-color: #4a9c48;
 	border: solid 1px #181818;
 	color: white;
@@ -112,16 +112,16 @@ a:hover.links{
 	font-weight: lighter;
 }
 
-a.linksgenerico{
+.linksgenerico{
 	color: white;
 	text-decoration: none;
 }
 
-a.linksgenerico:hover{
+.linksgenerico:hover{
 	text-decoration: underline;
 }
 
-hr#separador{
+#separador{
 	width: 1100px;
 	margin: auto;
 	color: grey;
@@ -145,21 +145,21 @@ hr#separador{
 	width: 230px;
 }
 
-h2.sidebar2{
+.sidebar2{
 	color: black;
 	margin-bottom: 20px;
 	margin-top: 40px;
 
 }
 
-li.listasidebartop{
+.listasidebartop{
 	margin-left: 20px;
 	color: grey;
 	font-size: 12px;
 	padding: 10px;
 }
 
-li.listasidebar2{
+.listasidebar2{
 	margin-left: 20px;
 	color: grey;
 	font-size: 12px;
@@ -167,13 +167,13 @@ li.listasidebar2{
 	padding: 10px;
 }
 
-a.enlacesidebar2{
+.enlacesidebar2{
 	text-decoration: none;
 	margin: auto;
 	color: grey;
 }
 
-a.enlacesidebar2:hover{
+.enlacesidebar2:hover{
 	text-decoration: underline;
 }
 
