@@ -1,6 +1,5 @@
-@media screen and (min-width: 300px) and (max-width: 1050px){
+@media screen and (min-width: 300px) and (max-width: 600px){
 	
-
 	#titulo{
 		height: 200px;
 		width: 1120px;
@@ -60,11 +59,11 @@
 	}
 	
 	li.listasidebartop{
-		font-size: 30px;
+		font-size: 40px;
 	}
 
 	li.listasidebar2{
-		font-size: 30px;
+		font-size: 40px;
 	}
 	
 	.columnamedio{
@@ -93,7 +92,7 @@
 	}
 
 	#readfull{
-		font-size: 30px;
+		font-size: 50px;
 		padding: 40px;
 	}
 
@@ -110,11 +109,11 @@
 	}
 
 	.fecha{
-		font-size: 40px;
+		font-size: 60px;
 	}
 
 	.textofecha{
-		font-size: 20px;
+		font-size: 40px;
 	}
 
 	.columnafooter{
@@ -135,11 +134,11 @@
 	}
 
 	.textoimg{
-		font-size: 30px;
+		font-size: 40px;
 	}
 
 	.fechafooter{
-		font-size: 40px;
+		font-size: 50px;
 	}
 
 	.textofooter2{
@@ -147,19 +146,19 @@
 	}
 
 	.textofechafooter{
-		font-size: 20px;
+		font-size: 40px;
 	}
 
 	.textofechafooter2{
-		font-size: 20px;
+		font-size: 40px;
 	}
 
 	.fechafooter2{
-		font-size: 30px;
+		font-size: 50px;
 	}
 
 	.textoimg2{
-		font-size: 30px;
+		font-size: 50px;
 	}
 
 	.spanpor{
@@ -191,12 +190,12 @@
 	}
 
 	.sidebar2{
-		font-size: 60px;
+		font-size: 90px;
 		text-align: center;
 	}
 	
 	.textomedio{
-		font-size: 25px;
+		font-size: 45px;
 		width: 1000px;
 		margin: auto;
 		text-align: justify;
@@ -215,3 +214,5 @@
 		width: 1120px;
 	}
 }
+
+
